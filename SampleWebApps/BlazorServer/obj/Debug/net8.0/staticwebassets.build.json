@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "89jInTdfv4VT12M+sDVDT/qvS5cXw6XI2ZJUFu4nw3Q=",
+  "Hash": "vlH3xgNfRWdCFxz8n94jyjCe3qbxBXR+bQVU2MpljNQ=",
   "Source": "BlazorServer",
   "BasePath": "_content/BlazorServer",
   "Mode": "Default",
@@ -249,7 +249,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Jan 2025 18:11:07 GMT"
+          "Value": "Wed, 29 Jan 2025 18:40:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -286,7 +286,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Jan 2025 18:11:07 GMT"
+          "Value": "Wed, 29 Jan 2025 18:40:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -331,7 +331,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Jan 2025 18:11:07 GMT"
+          "Value": "Wed, 29 Jan 2025 18:40:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -376,7 +376,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Jan 2025 18:11:07 GMT"
+          "Value": "Wed, 29 Jan 2025 18:40:00 GMT"
         },
         {
           "Name": "Cache-Control",
