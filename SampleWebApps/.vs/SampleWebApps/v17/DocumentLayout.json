@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "D:\\GitHub\\TimCorrey_ASPNETCORE\\SampleWebApps\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BA5C4C2A-732E-4D6A-A3F5-9531A7E8F063}|MVC\\MVC.csproj|d:\\github\\timcorrey_aspnetcore\\samplewebapps\\mvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BA5C4C2A-732E-4D6A-A3F5-9531A7E8F063}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA5C4C2A-732E-4D6A-A3F5-9531A7E8F063}|MVC\\MVC.csproj|d:\\github\\timcorrey_aspnetcore\\samplewebapps\\mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BA5C4C2A-732E-4D6A-A3F5-9531A7E8F063}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA5C4C2A-732E-4D6A-A3F5-9531A7E8F063}|MVC\\MVC.csproj|d:\\github\\timcorrey_aspnetcore\\samplewebapps\\mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA5C4C2A-732E-4D6A-A3F5-9531A7E8F063}|MVC\\MVC.csproj|solutionrelative:mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0DCF8DC9-A370-44FE-94BE-39E68A0DFE70}|BlazorServer\\BlazorServer.csproj|d:\\github\\timcorrey_aspnetcore\\samplewebapps\\blazorserver\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DCF8DC9-A370-44FE-94BE-39E68A0DFE70}|BlazorServer\\BlazorServer.csproj|solutionrelative:blazorserver\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,40 +35,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "D:\\GitHub\\TimCorrey_ASPNETCORE\\SampleWebApps\\MVC\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "MVC\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "D:\\GitHub\\TimCorrey_ASPNETCORE\\SampleWebApps\\MVC\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "MVC\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Weather.razor",
+              "DocumentMoniker": "D:\\GitHub\\TimCorrey_ASPNETCORE\\SampleWebApps\\BlazorServer\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "BlazorServer\\Components\\Pages\\Weather.razor",
+              "ToolTip": "D:\\GitHub\\TimCorrey_ASPNETCORE\\SampleWebApps\\BlazorServer\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "BlazorServer\\Components\\Pages\\Weather.razor",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAABYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-29T17:09:54.995Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\GitHub\\TimCorrey_ASPNETCORE\\SampleWebApps\\MVC\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "MVC\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\GitHub\\TimCorrey_ASPNETCORE\\SampleWebApps\\MVC\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "MVC\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBYAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T17:09:34.63Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\GitHub\\TimCorrey_ASPNETCORE\\SampleWebApps\\MVC\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "MVC\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\GitHub\\TimCorrey_ASPNETCORE\\SampleWebApps\\MVC\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "MVC\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-29T17:09:26.321Z",
+              "WhenOpened": "2025-01-29T18:11:27.7Z",
               "EditorCaption": ""
             }
           ]
