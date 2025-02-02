@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\GitHub\\TimCorrey_ASPNETCORE\\SampleWebApps\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0DCF8DC9-A370-44FE-94BE-39E68A0DFE70}|BlazorServer\\BlazorServer.csproj|d:\\github\\timcorrey_aspnetcore\\samplewebapps\\blazorserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DCF8DC9-A370-44FE-94BE-39E68A0DFE70}|BlazorServer\\BlazorServer.csproj|solutionrelative:blazorserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA5C4C2A-732E-4D6A-A3F5-9531A7E8F063}|MVC\\MVC.csproj|d:\\github\\timcorrey_aspnetcore\\samplewebapps\\mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA5C4C2A-732E-4D6A-A3F5-9531A7E8F063}|MVC\\MVC.csproj|solutionrelative:mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1654B8E8-316A-4FF6-A8CA-336B7CBD446B}|API\\API.csproj|d:\\github\\timcorrey_aspnetcore\\samplewebapps\\api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1654B8E8-316A-4FF6-A8CA-336B7CBD446B}|API\\API.csproj|solutionrelative:api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,27 +35,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\GitHub\\TimCorrey_ASPNETCORE\\SampleWebApps\\BlazorServer\\Program.cs",
-              "RelativeDocumentMoniker": "BlazorServer\\Program.cs",
-              "ToolTip": "D:\\GitHub\\TimCorrey_ASPNETCORE\\SampleWebApps\\BlazorServer\\Program.cs",
-              "RelativeToolTip": "BlazorServer\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\GitHub\\TimCorrey_ASPNETCORE\\SampleWebApps\\API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\GitHub\\TimCorrey_ASPNETCORE\\SampleWebApps\\API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T15:09:24.308Z",
+              "WhenOpened": "2025-02-02T15:06:09.498Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\GitHub\\TimCorrey_ASPNETCORE\\SampleWebApps\\MVC\\Program.cs",
-              "RelativeDocumentMoniker": "MVC\\Program.cs",
-              "ToolTip": "D:\\GitHub\\TimCorrey_ASPNETCORE\\SampleWebApps\\MVC\\Program.cs",
-              "RelativeToolTip": "MVC\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T15:09:12.043Z"
             }
           ]
         }
