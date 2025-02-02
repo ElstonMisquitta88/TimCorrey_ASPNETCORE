@@ -9,7 +9,7 @@ Post-Deployment Script Template
                SELECT * FROM [$(TableName)]					
 --------------------------------------------------------------------------------------
 */
-IF NOT EXISTS(SELECT * FROM DBP.FOOD)
+IF NOT EXISTS(SELECT * FROM dbo.FOOD)
 BEGIN
      insert into dbo.Food(Title, [Description], Price)
     values ('Cheeseburger Meal', 'A cheeseburger, fries, and a drink', 5.95),
