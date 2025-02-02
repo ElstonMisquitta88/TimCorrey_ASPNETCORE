@@ -44,7 +44,7 @@
         }
       }
     },
-    "/WeatherForecast/sample2/elston": {
+    "/WeatherForecast/sample2": {
       "get": {
         "tags": [
           "WeatherForecast"

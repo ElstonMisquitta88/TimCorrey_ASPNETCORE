@@ -22,8 +22,8 @@
   },
   {
     "ContainingType": "API.Controllers.WeatherForecastController",
-    "Method": "GetSample2",
-    "RelativePath": "WeatherForecast/sample2/elston",
+    "Method": "sample2",
+    "RelativePath": "WeatherForecast/sample2",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,

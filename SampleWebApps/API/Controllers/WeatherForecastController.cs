@@ -31,7 +31,7 @@ namespace API.Controllers
         }
 
         [HttpGet("sample2")]
-        public IEnumerable<WeatherForecast> GetSample2()
+        public IEnumerable<WeatherForecast> sample2()
         {
             return Enumerable.Range(1, 5).Select(index => new WeatherForecast
             {
