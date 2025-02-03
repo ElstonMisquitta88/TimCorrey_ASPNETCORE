@@ -4,3 +4,7 @@ D:\GitHub\TimCorrey_ASPNETCORE\AspNetCoreCommon\TimsDinerDB\bin\Debug\TimsDinerD
 D:\GitHub\TimCorrey_ASPNETCORE\AspNetCoreCommon\TimsDinerDB\obj\Debug\TimsDinerDB.sqlproj.AssemblyReference.cache
 D:\GitHub\TimCorrey_ASPNETCORE\AspNetCoreCommon\TimsDinerDB\obj\Debug\TimsDinerDB.dll
 D:\GitHub\TimCorrey_ASPNETCORE\AspNetCoreCommon\TimsDinerDB\obj\Debug\TimsDinerDB.pdb
+D:\GitHub\TimCorrey_ASPNETCORE\AspNetCoreCommon\TimsDinerDB\obj\Debug\Model.xml
+D:\GitHub\TimCorrey_ASPNETCORE\AspNetCoreCommon\TimsDinerDB\obj\Debug\refactor.xml
+D:\GitHub\TimCorrey_ASPNETCORE\AspNetCoreCommon\TimsDinerDB\obj\Debug\postdeploy.sql
+D:\GitHub\TimCorrey_ASPNETCORE\AspNetCoreCommon\TimsDinerDB\obj\Debug\predeploy.sql
