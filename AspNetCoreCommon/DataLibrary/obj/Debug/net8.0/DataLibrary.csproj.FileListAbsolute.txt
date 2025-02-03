@@ -1,0 +1,13 @@
+D:\GitHub\TimCorrey_ASPNETCORE\AspNetCoreCommon\DataLibrary\bin\Debug\net8.0\DataLibrary.deps.json
+D:\GitHub\TimCorrey_ASPNETCORE\AspNetCoreCommon\DataLibrary\bin\Debug\net8.0\DataLibrary.dll
+D:\GitHub\TimCorrey_ASPNETCORE\AspNetCoreCommon\DataLibrary\bin\Debug\net8.0\DataLibrary.pdb
+D:\GitHub\TimCorrey_ASPNETCORE\AspNetCoreCommon\DataLibrary\obj\Debug\net8.0\DataLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\TimCorrey_ASPNETCORE\AspNetCoreCommon\DataLibrary\obj\Debug\net8.0\DataLibrary.AssemblyInfoInputs.cache
+D:\GitHub\TimCorrey_ASPNETCORE\AspNetCoreCommon\DataLibrary\obj\Debug\net8.0\DataLibrary.AssemblyInfo.cs
+D:\GitHub\TimCorrey_ASPNETCORE\AspNetCoreCommon\DataLibrary\obj\Debug\net8.0\DataLibrary.csproj.CoreCompileInputs.cache
+D:\GitHub\TimCorrey_ASPNETCORE\AspNetCoreCommon\DataLibrary\obj\Debug\net8.0\DataLibrary.sourcelink.json
+D:\GitHub\TimCorrey_ASPNETCORE\AspNetCoreCommon\DataLibrary\obj\Debug\net8.0\DataLibrary.dll
+D:\GitHub\TimCorrey_ASPNETCORE\AspNetCoreCommon\DataLibrary\obj\Debug\net8.0\refint\DataLibrary.dll
+D:\GitHub\TimCorrey_ASPNETCORE\AspNetCoreCommon\DataLibrary\obj\Debug\net8.0\DataLibrary.pdb
+D:\GitHub\TimCorrey_ASPNETCORE\AspNetCoreCommon\DataLibrary\obj\Debug\net8.0\ref\DataLibrary.dll
+D:\GitHub\TimCorrey_ASPNETCORE\AspNetCoreCommon\DataLibrary\obj\Debug\net8.0\DataLibrary.csproj.AssemblyReference.cache
