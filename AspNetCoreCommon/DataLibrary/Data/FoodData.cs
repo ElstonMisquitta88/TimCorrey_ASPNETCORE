@@ -13,6 +13,7 @@ namespace DataLibrary.Data
         private readonly IDataAccess _dataAccess;
         private readonly ConnectionStringData _connectionString;
 
+
         public FoodData(IDataAccess dataAccess, ConnectionStringData connectionString)
         {
             _dataAccess = dataAccess;
