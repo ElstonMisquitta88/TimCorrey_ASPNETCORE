@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "D:\\GitHub\\TimCorrey_ASPNETCORE\\AspNetCoreCommon\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F5E8E201-E6EF-498D-923E-38C3277D15FC}|DataLibrary\\DataLibrary.csproj|d:\\github\\timcorrey_aspnetcore\\aspnetcorecommon\\datalibrary\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E8E201-E6EF-498D-923E-38C3277D15FC}|DataLibrary\\DataLibrary.csproj|solutionrelative:datalibrary\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F5E8E201-E6EF-498D-923E-38C3277D15FC}|DataLibrary\\DataLibrary.csproj|d:\\github\\timcorrey_aspnetcore\\aspnetcorecommon\\datalibrary\\data\\orderdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5E8E201-E6EF-498D-923E-38C3277D15FC}|DataLibrary\\DataLibrary.csproj|solutionrelative:datalibrary\\data\\orderdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F5E8E201-E6EF-498D-923E-38C3277D15FC}|DataLibrary\\DataLibrary.csproj|d:\\github\\timcorrey_aspnetcore\\aspnetcorecommon\\datalibrary\\data\\fooddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5E8E201-E6EF-498D-923E-38C3277D15FC}|DataLibrary\\DataLibrary.csproj|solutionrelative:datalibrary\\data\\fooddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E8E201-E6EF-498D-923E-38C3277D15FC}|DataLibrary\\DataLibrary.csproj|d:\\github\\timcorrey_aspnetcore\\aspnetcorecommon\\datalibrary\\db\\sqldb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E8E201-E6EF-498D-923E-38C3277D15FC}|DataLibrary\\DataLibrary.csproj|solutionrelative:datalibrary\\db\\sqldb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E8E201-E6EF-498D-923E-38C3277D15FC}|DataLibrary\\DataLibrary.csproj|d:\\github\\timcorrey_aspnetcore\\aspnetcorecommon\\datalibrary\\db\\connectionstringdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E8E201-E6EF-498D-923E-38C3277D15FC}|DataLibrary\\DataLibrary.csproj|solutionrelative:datalibrary\\db\\connectionstringdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,27 +51,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "OrderData.cs",
-              "DocumentMoniker": "D:\\GitHub\\TimCorrey_ASPNETCORE\\AspNetCoreCommon\\DataLibrary\\Data\\OrderData.cs",
-              "RelativeDocumentMoniker": "DataLibrary\\Data\\OrderData.cs",
-              "ToolTip": "D:\\GitHub\\TimCorrey_ASPNETCORE\\AspNetCoreCommon\\DataLibrary\\Data\\OrderData.cs",
-              "RelativeToolTip": "DataLibrary\\Data\\OrderData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA8AAAAAAAAAA==",
+              "Title": "OrderModel.cs",
+              "DocumentMoniker": "D:\\GitHub\\TimCorrey_ASPNETCORE\\AspNetCoreCommon\\DataLibrary\\Models\\OrderModel.cs",
+              "RelativeDocumentMoniker": "DataLibrary\\Models\\OrderModel.cs",
+              "ToolTip": "D:\\GitHub\\TimCorrey_ASPNETCORE\\AspNetCoreCommon\\DataLibrary\\Models\\OrderModel.cs",
+              "RelativeToolTip": "DataLibrary\\Models\\OrderModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T16:54:15.666Z",
+              "WhenOpened": "2025-02-04T18:45:39.545Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "SqlDb.cs",
+              "DocumentMoniker": "D:\\GitHub\\TimCorrey_ASPNETCORE\\AspNetCoreCommon\\DataLibrary\\Db\\SqlDb.cs",
+              "RelativeDocumentMoniker": "DataLibrary\\Db\\SqlDb.cs",
+              "ToolTip": "D:\\GitHub\\TimCorrey_ASPNETCORE\\AspNetCoreCommon\\DataLibrary\\Db\\SqlDb.cs",
+              "RelativeToolTip": "DataLibrary\\Db\\SqlDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T17:05:36.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConnectionStringData.cs",
+              "DocumentMoniker": "D:\\GitHub\\TimCorrey_ASPNETCORE\\AspNetCoreCommon\\DataLibrary\\Db\\ConnectionStringData.cs",
+              "RelativeDocumentMoniker": "DataLibrary\\Db\\ConnectionStringData.cs",
+              "ToolTip": "D:\\GitHub\\TimCorrey_ASPNETCORE\\AspNetCoreCommon\\DataLibrary\\Db\\ConnectionStringData.cs",
+              "RelativeToolTip": "DataLibrary\\Db\\ConnectionStringData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T16:59:42.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "FoodData.cs",
               "DocumentMoniker": "D:\\GitHub\\TimCorrey_ASPNETCORE\\AspNetCoreCommon\\DataLibrary\\Data\\FoodData.cs",
               "RelativeDocumentMoniker": "DataLibrary\\Data\\FoodData.cs",
               "ToolTip": "D:\\GitHub\\TimCorrey_ASPNETCORE\\AspNetCoreCommon\\DataLibrary\\Data\\FoodData.cs",
               "RelativeToolTip": "DataLibrary\\Data\\FoodData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-03T16:52:10.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderData.cs",
+              "DocumentMoniker": "D:\\GitHub\\TimCorrey_ASPNETCORE\\AspNetCoreCommon\\DataLibrary\\Data\\OrderData.cs",
+              "RelativeDocumentMoniker": "DataLibrary\\Data\\OrderData.cs",
+              "ToolTip": "D:\\GitHub\\TimCorrey_ASPNETCORE\\AspNetCoreCommon\\DataLibrary\\Data\\OrderData.cs",
+              "RelativeToolTip": "DataLibrary\\Data\\OrderData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T16:54:15.666Z",
               "EditorCaption": ""
             }
           ]

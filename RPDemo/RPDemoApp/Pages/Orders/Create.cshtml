@@ -2,3 +2,42 @@
 @model RPDemoApp.Pages.Orders.CreateModel
 @{
 }
+
+<h4>Create</h4>
+
+<form method="post">
+
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+  
+    <div class="form-group">
+        <label asp-for="Order.FoodId" class="control-label"></label>
+        <select asp-for="Order.FoodId" asp-items="Model.FoodItems" class="form-control"></select>
+        <span asp-validation-for="Order.FoodId" class="text-danger"></span>
+    </div>
+
+
+    <div class="form-group">
+        <label asp-for="Order.Quantity" class="control-label"></label>
+        <input asp-for="Order.Quantity" class="form-control" />
+        <span asp-validation-for="Order.Quantity" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Order.OrderName" class="control-label"></label>
+        <input asp-for="Order.OrderName" class="form-control" />
+        <span asp-validation-for="Order.OrderName" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <input type="submit" value="Order Food" class="btn btn-primary" />
+    </div>
+
+</form>
+
+@* Client Side Validation *@
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
