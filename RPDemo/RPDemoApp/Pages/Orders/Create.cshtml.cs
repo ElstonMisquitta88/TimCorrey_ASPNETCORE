@@ -59,9 +59,28 @@ namespace RPDemoApp.Pages.Orders
             Order.Total = Order.Quantity * food.Where(x => x.Id == Order.FoodId).First().Price;
             int id = await _orderData.CreateOrder(Order);
 
-            // Redirect to page (Razor Page)
-            return RedirectToPage("./Create"); //TODO
+            // Redirect to page (Razor Page) and pass the id of the order to the Display page
+            return RedirectToPage("./Display", new { Id = id });
         }
+
+
+
+
+        //// Custom Method
+        //public async Task<IActionResult> OnPostSave()
+        //{
+        //    if (ModelState.IsValid == false)
+        //    {
+        //        return Page();
+        //    }
+
+        //    var food = await _foodData.GetFood(); // Shortcut >> Real Work fetch Specific food item
+        //    Order.Total = Order.Quantity * food.Where(x => x.Id == Order.FoodId).First().Price;
+        //    int id = await _orderData.CreateOrder(Order);
+
+        //    // Redirect to page (Razor Page)
+        //    return RedirectToPage("./Create"); //TODO
+        //}
 
     }
 }
