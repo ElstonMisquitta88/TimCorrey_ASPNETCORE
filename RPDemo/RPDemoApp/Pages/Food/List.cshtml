@@ -1,0 +1,27 @@
+﻿@page
+@model RPDemoApp.Pages.Food.ListModel
+@{
+    <table class="table table-striped">
+       
+        <thead class="thead-dark">
+            <tr>
+                <th>Title</th>
+                <th>Description</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                foreach (var food in Model.foodList)
+                {
+                <tr>
+                    <td>@food.Title</td>
+                    <td>@food.Description</td>
+                    <td>@string.Format("{0:C}", @food.Price)</td>
+                </tr>
+                }
+            }
+
+        </tbody>
+    </table>
+}
