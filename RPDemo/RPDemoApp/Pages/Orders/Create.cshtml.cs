@@ -48,7 +48,6 @@ namespace RPDemoApp.Pages.Orders
             }
         }
 
-        //[HttpPost]
         public async Task<IActionResult> OnPost()
         {
             if (ModelState.IsValid == false)
@@ -57,14 +56,12 @@ namespace RPDemoApp.Pages.Orders
             }
 
             var food = await _foodData.GetFood(); // Shortcut >> Real Work fetch Specific food item
-
             Order.Total = Order.Quantity * food.Where(x => x.Id == Order.FoodId).First().Price;
-
             int id = await _orderData.CreateOrder(Order);
 
             // Redirect to page (Razor Page)
             return RedirectToPage("./Create"); //TODO
-
         }
+
     }
 }
