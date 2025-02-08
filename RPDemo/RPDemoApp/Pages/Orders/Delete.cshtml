@@ -1,7 +1,5 @@
 ﻿@page
-@model RPDemoApp.Pages.Orders.DisplayModel
-
-
+@model RPDemoApp.Pages.Orders.DeleteModel
 @{
     if (Model.Order is null)
     {
@@ -24,35 +22,15 @@
                     <td>@string.Format("{0:C}", Model.Order.Total)</td>
                 </tr>
                 <tr>
-
-                <tr>
-                    <td><strong>Item Ordered</strong></td>
-                    <td>@Model.ItemPurchased</td>
-                </tr>
-
-                <tr>
                     <td><strong>Quantity</strong></td>
                     <td>@Model.Order.Quantity</td>
                 </tr>
-                <tr>
-                    <td>
-                        <a asp-page="./Delete" asp-route-id="@Model.Order.Id" class="btn btn-danger">Delete Order </a>
-                    </td>
-                </tr>
             </tbody>
         </table>
-
         <form method="post">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-            <input asp-for="UpdateModel.Id" value="@Model.Order.Id" class="form-control" type="hidden" />
-            
-            <input asp-for="UpdateModel.OrderName" value="@Model.Order.OrderName" class="form-control" />
-            <span asp-validation-for="UpdateModel.OrderName" class="text-danger"></span>
-
-            <input type="submit" value="Update Order" asp-page-handler="UpdateOrder" class="btn btn-primary" />
+            <input asp-for="Id" value="@Model.Id" class="form-control" type="hidden" />
+            <input type="submit" value="Delete Order" asp-page-handler="DeleteOrder" class="btn btn-danger" />
         </form>
-       
-        
     }
 }
-

@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\GitHub\\TimCorrey_ASPNETCORE\\RPDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{138EAFAD-8C91-4C3C-83F2-D1A6CDBAAE04}|RPDemoApp\\RPDemoApp.csproj|d:\\github\\timcorrey_aspnetcore\\rpdemo\\rpdemoapp\\pages\\orders\\display.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{138EAFAD-8C91-4C3C-83F2-D1A6CDBAAE04}|RPDemoApp\\RPDemoApp.csproj|solutionrelative:rpdemoapp\\pages\\orders\\display.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{138EAFAD-8C91-4C3C-83F2-D1A6CDBAAE04}|RPDemoApp\\RPDemoApp.csproj|d:\\github\\timcorrey_aspnetcore\\rpdemo\\rpdemoapp\\pages\\orders\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{138EAFAD-8C91-4C3C-83F2-D1A6CDBAAE04}|RPDemoApp\\RPDemoApp.csproj|solutionrelative:rpdemoapp\\pages\\orders\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{138EAFAD-8C91-4C3C-83F2-D1A6CDBAAE04}|RPDemoApp\\RPDemoApp.csproj|d:\\github\\timcorrey_aspnetcore\\rpdemo\\rpdemoapp\\pages\\orders\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{138EAFAD-8C91-4C3C-83F2-D1A6CDBAAE04}|RPDemoApp\\RPDemoApp.csproj|solutionrelative:rpdemoapp\\pages\\orders\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{138EAFAD-8C91-4C3C-83F2-D1A6CDBAAE04}|RPDemoApp\\RPDemoApp.csproj|d:\\github\\timcorrey_aspnetcore\\rpdemo\\rpdemoapp\\pages\\orders\\display.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138EAFAD-8C91-4C3C-83F2-D1A6CDBAAE04}|RPDemoApp\\RPDemoApp.csproj|solutionrelative:rpdemoapp\\pages\\orders\\display.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{138EAFAD-8C91-4C3C-83F2-D1A6CDBAAE04}|RPDemoApp\\RPDemoApp.csproj|d:\\github\\timcorrey_aspnetcore\\rpdemo\\rpdemoapp\\pages\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{138EAFAD-8C91-4C3C-83F2-D1A6CDBAAE04}|RPDemoApp\\RPDemoApp.csproj|solutionrelative:rpdemoapp\\pages\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{138EAFAD-8C91-4C3C-83F2-D1A6CDBAAE04}|RPDemoApp\\RPDemoApp.csproj|d:\\github\\timcorrey_aspnetcore\\rpdemo\\rpdemoapp\\pages\\orders\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{138EAFAD-8C91-4C3C-83F2-D1A6CDBAAE04}|RPDemoApp\\RPDemoApp.csproj|solutionrelative:rpdemoapp\\pages\\orders\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138EAFAD-8C91-4C3C-83F2-D1A6CDBAAE04}|RPDemoApp\\RPDemoApp.csproj|d:\\github\\timcorrey_aspnetcore\\rpdemo\\rpdemoapp\\pages\\orders\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138EAFAD-8C91-4C3C-83F2-D1A6CDBAAE04}|RPDemoApp\\RPDemoApp.csproj|solutionrelative:rpdemoapp\\pages\\orders\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +26,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Display.cshtml.cs",
+              "DocumentMoniker": "D:\\GitHub\\TimCorrey_ASPNETCORE\\RPDemo\\RPDemoApp\\Pages\\Orders\\Display.cshtml.cs",
+              "RelativeDocumentMoniker": "RPDemoApp\\Pages\\Orders\\Display.cshtml.cs",
+              "ToolTip": "D:\\GitHub\\TimCorrey_ASPNETCORE\\RPDemo\\RPDemoApp\\Pages\\Orders\\Display.cshtml.cs",
+              "RelativeToolTip": "RPDemoApp\\Pages\\Orders\\Display.cshtml.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAmwDgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T16:47:36.945Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
@@ -46,54 +60,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Create.cshtml.cs",
-              "DocumentMoniker": "D:\\GitHub\\TimCorrey_ASPNETCORE\\RPDemo\\RPDemoApp\\Pages\\Orders\\Create.cshtml.cs",
-              "RelativeDocumentMoniker": "RPDemoApp\\Pages\\Orders\\Create.cshtml.cs",
-              "ToolTip": "D:\\GitHub\\TimCorrey_ASPNETCORE\\RPDemo\\RPDemoApp\\Pages\\Orders\\Create.cshtml.cs",
-              "RelativeToolTip": "RPDemoApp\\Pages\\Orders\\Create.cshtml.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAqwDcAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-08T12:36:14.595Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\GitHub\\TimCorrey_ASPNETCORE\\RPDemo\\RPDemoApp\\Pages\\Orders\\Create.cshtml",
-              "RelativeDocumentMoniker": "RPDemoApp\\Pages\\Orders\\Create.cshtml",
-              "ToolTip": "D:\\GitHub\\TimCorrey_ASPNETCORE\\RPDemo\\RPDemoApp\\Pages\\Orders\\Create.cshtml",
-              "RelativeToolTip": "RPDemoApp\\Pages\\Orders\\Create.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-08T12:31:58.728Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Display.cshtml",
               "DocumentMoniker": "D:\\GitHub\\TimCorrey_ASPNETCORE\\RPDemo\\RPDemoApp\\Pages\\Orders\\Display.cshtml",
               "RelativeDocumentMoniker": "RPDemoApp\\Pages\\Orders\\Display.cshtml",
               "ToolTip": "D:\\GitHub\\TimCorrey_ASPNETCORE\\RPDemo\\RPDemoApp\\Pages\\Orders\\Display.cshtml",
               "RelativeToolTip": "RPDemoApp\\Pages\\Orders\\Display.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADoAAABpAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-06T17:16:38.567Z",
+              "WhenOpened": "2025-02-08T15:31:41.228Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Display.cshtml.cs",
-              "DocumentMoniker": "D:\\GitHub\\TimCorrey_ASPNETCORE\\RPDemo\\RPDemoApp\\Pages\\Orders\\Display.cshtml.cs",
-              "RelativeDocumentMoniker": "RPDemoApp\\Pages\\Orders\\Display.cshtml.cs",
-              "ToolTip": "D:\\GitHub\\TimCorrey_ASPNETCORE\\RPDemo\\RPDemoApp\\Pages\\Orders\\Display.cshtml.cs",
-              "RelativeToolTip": "RPDemoApp\\Pages\\Orders\\Display.cshtml.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAuwEMAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "D:\\GitHub\\TimCorrey_ASPNETCORE\\RPDemo\\RPDemoApp\\Pages\\Orders\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "RPDemoApp\\Pages\\Orders\\Delete.cshtml.cs",
+              "ToolTip": "D:\\GitHub\\TimCorrey_ASPNETCORE\\RPDemo\\RPDemoApp\\Pages\\Orders\\Delete.cshtml.cs",
+              "RelativeToolTip": "RPDemoApp\\Pages\\Orders\\Delete.cshtml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T17:16:37.902Z",
+              "WhenOpened": "2025-02-08T15:27:28.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\GitHub\\TimCorrey_ASPNETCORE\\RPDemo\\RPDemoApp\\Pages\\Orders\\Delete.cshtml",
+              "RelativeDocumentMoniker": "RPDemoApp\\Pages\\Orders\\Delete.cshtml",
+              "ToolTip": "D:\\GitHub\\TimCorrey_ASPNETCORE\\RPDemo\\RPDemoApp\\Pages\\Orders\\Delete.cshtml",
+              "RelativeToolTip": "RPDemoApp\\Pages\\Orders\\Delete.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAB8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-08T15:27:27.106Z",
               "EditorCaption": ""
             }
           ]
