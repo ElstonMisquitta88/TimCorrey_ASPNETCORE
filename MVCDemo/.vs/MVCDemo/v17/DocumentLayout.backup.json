@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\GitHub\\TimCorrey_ASPNETCORE\\MVCDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{23BC349F-D063-42A4-9BE8-C1C41521F653}|MVCDemoApp\\MVCDemoApp.csproj|d:\\github\\timcorrey_aspnetcore\\mvcdemo\\mvcdemoapp\\mvcdemoapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{23BC349F-D063-42A4-9BE8-C1C41521F653}|MVCDemoApp\\MVCDemoApp.csproj|solutionrelative:mvcdemoapp\\mvcdemoapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{23BC349F-D063-42A4-9BE8-C1C41521F653}|MVCDemoApp\\MVCDemoApp.csproj|d:\\github\\timcorrey_aspnetcore\\mvcdemo\\mvcdemoapp\\views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23BC349F-D063-42A4-9BE8-C1C41521F653}|MVCDemoApp\\MVCDemoApp.csproj|solutionrelative:mvcdemoapp\\views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BC349F-D063-42A4-9BE8-C1C41521F653}|MVCDemoApp\\MVCDemoApp.csproj|d:\\github\\timcorrey_aspnetcore\\mvcdemo\\mvcdemoapp\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23BC349F-D063-42A4-9BE8-C1C41521F653}|MVCDemoApp\\MVCDemoApp.csproj|solutionrelative:mvcdemoapp\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,14 +39,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MVCDemoApp",
-              "DocumentMoniker": "D:\\GitHub\\TimCorrey_ASPNETCORE\\MVCDemo\\MVCDemoApp\\MVCDemoApp.csproj",
-              "RelativeDocumentMoniker": "MVCDemoApp\\MVCDemoApp.csproj",
-              "ToolTip": "D:\\GitHub\\TimCorrey_ASPNETCORE\\MVCDemo\\MVCDemoApp\\MVCDemoApp.csproj",
-              "RelativeToolTip": "MVCDemoApp\\MVCDemoApp.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-09T05:41:21.561Z",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\GitHub\\TimCorrey_ASPNETCORE\\MVCDemo\\MVCDemoApp\\Views\\Orders\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVCDemoApp\\Views\\Orders\\Create.cshtml",
+              "ToolTip": "D:\\GitHub\\TimCorrey_ASPNETCORE\\MVCDemo\\MVCDemoApp\\Views\\Orders\\Create.cshtml",
+              "RelativeToolTip": "MVCDemoApp\\Views\\Orders\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T11:25:53.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\GitHub\\TimCorrey_ASPNETCORE\\MVCDemo\\MVCDemoApp\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "MVCDemoApp\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\GitHub\\TimCorrey_ASPNETCORE\\MVCDemo\\MVCDemoApp\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "MVCDemoApp\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAgwCYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T11:24:20.721Z",
               "EditorCaption": ""
             }
           ]
