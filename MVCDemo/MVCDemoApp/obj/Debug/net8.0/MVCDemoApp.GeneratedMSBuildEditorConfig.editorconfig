@@ -28,6 +28,10 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
+[D:/GitHub/TimCorrey_ASPNETCORE/MVCDemo/MVCDemoApp/Views/Food/DisplayFood.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9vZFxEaXNwbGF5Rm9vZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/GitHub/TimCorrey_ASPNETCORE/MVCDemo/MVCDemoApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -38,6 +42,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/GitHub/TimCorrey_ASPNETCORE/MVCDemo/MVCDemoApp/Views/Orders/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GitHub/TimCorrey_ASPNETCORE/MVCDemo/MVCDemoApp/Views/Orders/Display.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXERpc3BsYXkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/GitHub/TimCorrey_ASPNETCORE/MVCDemo/MVCDemoApp/Views/Shared/Error.cshtml]

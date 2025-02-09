@@ -51,7 +51,23 @@ namespace MVCDemoApp.Controllers
             Order.Total = Order.Quantity * food.Where(x => x.Id == Order.FoodId).First().Price;
             int id = await _orderData.CreateOrder(Order);
 
-            return RedirectToAction("Create"); // TODO
+            return RedirectToAction("Display",new {id}); // TODO
+        }
+
+
+        public async Task<IActionResult> Display(int Id)
+        {
+            var Order = await _orderData.GetOrderById(Id);
+            OrderDisplayModel displayorder = new OrderDisplayModel();
+            displayorder.Order = Order; // (1)
+
+            if (Order != null)
+            {
+                var food = await _foodData.GetFood();
+                //(2)
+                displayorder.ItemPurchased = food.Where(x => x.Id == Order.FoodId).FirstOrDefault()?.Title;
+            }
+            return View(displayorder);
         }
     }
 }

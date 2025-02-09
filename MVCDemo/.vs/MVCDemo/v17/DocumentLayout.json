@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\GitHub\\TimCorrey_ASPNETCORE\\MVCDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{23BC349F-D063-42A4-9BE8-C1C41521F653}|MVCDemoApp\\MVCDemoApp.csproj|d:\\github\\timcorrey_aspnetcore\\mvcdemo\\mvcdemoapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{23BC349F-D063-42A4-9BE8-C1C41521F653}|MVCDemoApp\\MVCDemoApp.csproj|solutionrelative:mvcdemoapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{23BC349F-D063-42A4-9BE8-C1C41521F653}|MVCDemoApp\\MVCDemoApp.csproj|d:\\github\\timcorrey_aspnetcore\\mvcdemo\\mvcdemoapp\\views\\food\\displayfood.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23BC349F-D063-42A4-9BE8-C1C41521F653}|MVCDemoApp\\MVCDemoApp.csproj|solutionrelative:mvcdemoapp\\views\\food\\displayfood.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BC349F-D063-42A4-9BE8-C1C41521F653}|MVCDemoApp\\MVCDemoApp.csproj|d:\\github\\timcorrey_aspnetcore\\mvcdemo\\mvcdemoapp\\controllers\\foodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23BC349F-D063-42A4-9BE8-C1C41521F653}|MVCDemoApp\\MVCDemoApp.csproj|solutionrelative:mvcdemoapp\\controllers\\foodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BC349F-D063-42A4-9BE8-C1C41521F653}|MVCDemoApp\\MVCDemoApp.csproj|d:\\github\\timcorrey_aspnetcore\\mvcdemo\\mvcdemoapp\\models\\foodlistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23BC349F-D063-42A4-9BE8-C1C41521F653}|MVCDemoApp\\MVCDemoApp.csproj|solutionrelative:mvcdemoapp\\models\\foodlistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{23BC349F-D063-42A4-9BE8-C1C41521F653}|MVCDemoApp\\MVCDemoApp.csproj|d:\\github\\timcorrey_aspnetcore\\mvcdemo\\mvcdemoapp\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,6 +21,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{23BC349F-D063-42A4-9BE8-C1C41521F653}|MVCDemoApp\\MVCDemoApp.csproj|d:\\github\\timcorrey_aspnetcore\\mvcdemo\\mvcdemoapp\\views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{23BC349F-D063-42A4-9BE8-C1C41521F653}|MVCDemoApp\\MVCDemoApp.csproj|solutionrelative:mvcdemoapp\\views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BC349F-D063-42A4-9BE8-C1C41521F653}|MVCDemoApp\\MVCDemoApp.csproj|d:\\github\\timcorrey_aspnetcore\\mvcdemo\\mvcdemoapp\\models\\ordercreatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23BC349F-D063-42A4-9BE8-C1C41521F653}|MVCDemoApp\\MVCDemoApp.csproj|solutionrelative:mvcdemoapp\\models\\ordercreatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +34,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FoodListModel.cs",
+              "DocumentMoniker": "D:\\GitHub\\TimCorrey_ASPNETCORE\\MVCDemo\\MVCDemoApp\\Models\\FoodListModel.cs",
+              "RelativeDocumentMoniker": "MVCDemoApp\\Models\\FoodListModel.cs",
+              "ToolTip": "D:\\GitHub\\TimCorrey_ASPNETCORE\\MVCDemo\\MVCDemoApp\\Models\\FoodListModel.cs",
+              "RelativeToolTip": "MVCDemoApp\\Models\\FoodListModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T15:46:56.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderCreateModel.cs",
+              "DocumentMoniker": "D:\\GitHub\\TimCorrey_ASPNETCORE\\MVCDemo\\MVCDemoApp\\Models\\OrderCreateModel.cs",
+              "RelativeDocumentMoniker": "MVCDemoApp\\Models\\OrderCreateModel.cs",
+              "ToolTip": "D:\\GitHub\\TimCorrey_ASPNETCORE\\MVCDemo\\MVCDemoApp\\Models\\OrderCreateModel.cs",
+              "RelativeToolTip": "MVCDemoApp\\Models\\OrderCreateModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T15:46:12.358Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
@@ -43,40 +81,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\GitHub\\TimCorrey_ASPNETCORE\\MVCDemo\\MVCDemoApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "MVCDemoApp\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\GitHub\\TimCorrey_ASPNETCORE\\MVCDemo\\MVCDemoApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "MVCDemoApp\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
+              "Title": "DisplayFood.cshtml",
+              "DocumentMoniker": "D:\\GitHub\\TimCorrey_ASPNETCORE\\MVCDemo\\MVCDemoApp\\Views\\Food\\DisplayFood.cshtml",
+              "RelativeDocumentMoniker": "MVCDemoApp\\Views\\Food\\DisplayFood.cshtml",
+              "ToolTip": "D:\\GitHub\\TimCorrey_ASPNETCORE\\MVCDemo\\MVCDemoApp\\Views\\Food\\DisplayFood.cshtml",
+              "RelativeToolTip": "MVCDemoApp\\Views\\Food\\DisplayFood.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-09T11:43:55.8Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\GitHub\\TimCorrey_ASPNETCORE\\MVCDemo\\MVCDemoApp\\Views\\Orders\\Create.cshtml",
-              "RelativeDocumentMoniker": "MVCDemoApp\\Views\\Orders\\Create.cshtml",
-              "ToolTip": "D:\\GitHub\\TimCorrey_ASPNETCORE\\MVCDemo\\MVCDemoApp\\Views\\Orders\\Create.cshtml",
-              "RelativeToolTip": "MVCDemoApp\\Views\\Orders\\Create.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-09T11:25:53.123Z",
+              "WhenOpened": "2025-02-09T15:41:20.59Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "FoodController.cs",
+              "DocumentMoniker": "D:\\GitHub\\TimCorrey_ASPNETCORE\\MVCDemo\\MVCDemoApp\\Controllers\\FoodController.cs",
+              "RelativeDocumentMoniker": "MVCDemoApp\\Controllers\\FoodController.cs",
+              "ToolTip": "D:\\GitHub\\TimCorrey_ASPNETCORE\\MVCDemo\\MVCDemoApp\\Controllers\\FoodController.cs",
+              "RelativeToolTip": "MVCDemoApp\\Controllers\\FoodController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T15:41:12.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\GitHub\\TimCorrey_ASPNETCORE\\MVCDemo\\MVCDemoApp\\Views\\Orders\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVCDemoApp\\Views\\Orders\\Create.cshtml",
+              "ToolTip": "D:\\GitHub\\TimCorrey_ASPNETCORE\\MVCDemo\\MVCDemoApp\\Views\\Orders\\Create.cshtml*",
+              "RelativeToolTip": "MVCDemoApp\\Views\\Orders\\Create.cshtml*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T15:44:00.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "OrdersController.cs",
               "DocumentMoniker": "D:\\GitHub\\TimCorrey_ASPNETCORE\\MVCDemo\\MVCDemoApp\\Controllers\\OrdersController.cs",
               "RelativeDocumentMoniker": "MVCDemoApp\\Controllers\\OrdersController.cs",
               "ToolTip": "D:\\GitHub\\TimCorrey_ASPNETCORE\\MVCDemo\\MVCDemoApp\\Controllers\\OrdersController.cs",
               "RelativeToolTip": "MVCDemoApp\\Controllers\\OrdersController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwBsAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwDkAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T11:24:20.721Z",
+              "WhenOpened": "2025-02-09T14:38:23.196Z",
               "EditorCaption": ""
             }
           ]
