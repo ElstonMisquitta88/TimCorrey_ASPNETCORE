@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\GitHub\\TimCorrey_ASPNETCORE\\RPDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{138EAFAD-8C91-4C3C-83F2-D1A6CDBAAE04}|RPDemoApp\\RPDemoApp.csproj|d:\\github\\timcorrey_aspnetcore\\rpdemo\\rpdemoapp\\pages\\orders\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{138EAFAD-8C91-4C3C-83F2-D1A6CDBAAE04}|RPDemoApp\\RPDemoApp.csproj|solutionrelative:rpdemoapp\\pages\\orders\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{138EAFAD-8C91-4C3C-83F2-D1A6CDBAAE04}|RPDemoApp\\RPDemoApp.csproj|d:\\github\\timcorrey_aspnetcore\\rpdemo\\rpdemoapp\\pages\\orders\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138EAFAD-8C91-4C3C-83F2-D1A6CDBAAE04}|RPDemoApp\\RPDemoApp.csproj|solutionrelative:rpdemoapp\\pages\\orders\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{138EAFAD-8C91-4C3C-83F2-D1A6CDBAAE04}|RPDemoApp\\RPDemoApp.csproj|d:\\github\\timcorrey_aspnetcore\\rpdemo\\rpdemoapp\\pages\\orders\\display.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{138EAFAD-8C91-4C3C-83F2-D1A6CDBAAE04}|RPDemoApp\\RPDemoApp.csproj|solutionrelative:rpdemoapp\\pages\\orders\\display.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{138EAFAD-8C91-4C3C-83F2-D1A6CDBAAE04}|RPDemoApp\\RPDemoApp.csproj|d:\\github\\timcorrey_aspnetcore\\rpdemo\\rpdemoapp\\pages\\orders\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{138EAFAD-8C91-4C3C-83F2-D1A6CDBAAE04}|RPDemoApp\\RPDemoApp.csproj|solutionrelative:rpdemoapp\\pages\\orders\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{138EAFAD-8C91-4C3C-83F2-D1A6CDBAAE04}|RPDemoApp\\RPDemoApp.csproj|d:\\github\\timcorrey_aspnetcore\\rpdemo\\rpdemoapp\\pages\\orders\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{138EAFAD-8C91-4C3C-83F2-D1A6CDBAAE04}|RPDemoApp\\RPDemoApp.csproj|solutionrelative:rpdemoapp\\pages\\orders\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{138EAFAD-8C91-4C3C-83F2-D1A6CDBAAE04}|RPDemoApp\\RPDemoApp.csproj|d:\\github\\timcorrey_aspnetcore\\rpdemo\\rpdemoapp\\pages\\orders\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{138EAFAD-8C91-4C3C-83F2-D1A6CDBAAE04}|RPDemoApp\\RPDemoApp.csproj|solutionrelative:rpdemoapp\\pages\\orders\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{138EAFAD-8C91-4C3C-83F2-D1A6CDBAAE04}|RPDemoApp\\RPDemoApp.csproj|d:\\github\\timcorrey_aspnetcore\\rpdemo\\rpdemoapp\\pages\\orders\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{138EAFAD-8C91-4C3C-83F2-D1A6CDBAAE04}|RPDemoApp\\RPDemoApp.csproj|solutionrelative:rpdemoapp\\pages\\orders\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "RPDemoApp\\Pages\\Orders\\Display.cshtml.cs",
               "ToolTip": "D:\\GitHub\\TimCorrey_ASPNETCORE\\RPDemo\\RPDemoApp\\Pages\\Orders\\Display.cshtml.cs",
               "RelativeToolTip": "RPDemoApp\\Pages\\Orders\\Display.cshtml.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAmwDgAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAuwDgAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-08T16:47:36.945Z",
               "IsPinned": true,
@@ -60,33 +60,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Display.cshtml",
               "DocumentMoniker": "D:\\GitHub\\TimCorrey_ASPNETCORE\\RPDemo\\RPDemoApp\\Pages\\Orders\\Display.cshtml",
               "RelativeDocumentMoniker": "RPDemoApp\\Pages\\Orders\\Display.cshtml",
               "ToolTip": "D:\\GitHub\\TimCorrey_ASPNETCORE\\RPDemo\\RPDemoApp\\Pages\\Orders\\Display.cshtml",
               "RelativeToolTip": "RPDemoApp\\Pages\\Orders\\Display.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACoAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACcAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-08T15:31:41.228Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Delete.cshtml.cs",
               "DocumentMoniker": "D:\\GitHub\\TimCorrey_ASPNETCORE\\RPDemo\\RPDemoApp\\Pages\\Orders\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "RPDemoApp\\Pages\\Orders\\Delete.cshtml.cs",
               "ToolTip": "D:\\GitHub\\TimCorrey_ASPNETCORE\\RPDemo\\RPDemoApp\\Pages\\Orders\\Delete.cshtml.cs",
               "RelativeToolTip": "RPDemoApp\\Pages\\Orders\\Delete.cshtml.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBcAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-08T15:27:28.812Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\GitHub\\TimCorrey_ASPNETCORE\\RPDemo\\RPDemoApp\\Pages\\Orders\\Delete.cshtml",
               "RelativeDocumentMoniker": "RPDemoApp\\Pages\\Orders\\Delete.cshtml",
