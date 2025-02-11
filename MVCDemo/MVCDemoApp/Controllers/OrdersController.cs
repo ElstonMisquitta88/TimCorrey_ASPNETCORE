@@ -89,5 +89,14 @@ namespace MVCDemoApp.Controllers
             await _orderData.DeleteOrder(Order.Id);
             return RedirectToAction("Create");
         }
+
+
+        public async Task<IActionResult> DisplayAllOrders()
+        {
+            var Order = await _orderData.GetAllOrders();
+            List<OrderModel> displayorder = new List<OrderModel>();
+            displayorder = Order; // (1)
+            return View(displayorder);
+        }
     }
 }

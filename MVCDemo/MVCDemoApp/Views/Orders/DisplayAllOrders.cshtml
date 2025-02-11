@@ -1,0 +1,40 @@
+﻿@model IEnumerable<DataLibrary.Models.OrderModel>;
+@{
+    ViewData["Title"] = "DisplayAllOrders";
+}
+
+<h1>DisplayAllOrders</h1>
+<table class="table">
+    <thead class="thead-dark">
+        <tr>
+            <th scope="col">Order Name</th>
+            <th scope="col">Order Date</th>
+            <th scope="col">Order Quantity</th>
+            <th scope="col">Order Total</th>
+            <th scope="col">Action</th>
+            <th scope="col">Action</th>
+        </tr>
+    </thead>
+    @foreach (var _order in Model)
+    {
+
+        <tbody>
+            <tr>
+
+                <input asp-for="@_order.Id" value="@_order.Id" class="form-control" type="hidden" />
+                <td> @_order.OrderName</td>
+                <td>@_order.OrderDate</td>
+                <td>@_order.Quantity</td>
+                <td>@_order.Total</td>
+                <td>
+                    <a asp-action="Delete" asp-route-id="@_order.Id" class="btn btn-danger">Delete Order </a>
+                </td>
+
+                <td>
+                    <a asp-action="Display" asp-route-id="@_order.Id" class="btn btn-warning">Display & Delete </a>
+                </td>
+            </tr>
+        </tbody>
+
+    }
+</table>
