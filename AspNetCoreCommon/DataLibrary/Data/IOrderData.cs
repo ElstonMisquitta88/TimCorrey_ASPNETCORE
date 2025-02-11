@@ -8,5 +8,7 @@ namespace DataLibrary.Data
         Task<int> DeleteOrder(int orderId);
         Task<OrderModel> GetOrderById(int orderId);
         Task<int> UpdateOrderName(int orderId, string orderName);
+
+        Task<List<OrderModel>> GetAllOrders();
     }
 }

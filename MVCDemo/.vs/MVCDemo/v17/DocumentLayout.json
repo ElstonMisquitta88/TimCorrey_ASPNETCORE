@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{23BC349F-D063-42A4-9BE8-C1C41521F653}|MVCDemoApp\\MVCDemoApp.csproj|solutionrelative:mvcdemoapp\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{23BC349F-D063-42A4-9BE8-C1C41521F653}|MVCDemoApp\\MVCDemoApp.csproj|d:\\github\\timcorrey_aspnetcore\\mvcdemo\\mvcdemoapp\\models\\foodlistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23BC349F-D063-42A4-9BE8-C1C41521F653}|MVCDemoApp\\MVCDemoApp.csproj|solutionrelative:mvcdemoapp\\models\\foodlistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{23BC349F-D063-42A4-9BE8-C1C41521F653}|MVCDemoApp\\MVCDemoApp.csproj|d:\\github\\timcorrey_aspnetcore\\mvcdemo\\mvcdemoapp\\views\\orders\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{23BC349F-D063-42A4-9BE8-C1C41521F653}|MVCDemoApp\\MVCDemoApp.csproj|solutionrelative:mvcdemoapp\\views\\orders\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -39,12 +43,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "FoodListModel.cs",
+              "DocumentMoniker": "D:\\GitHub\\TimCorrey_ASPNETCORE\\MVCDemo\\MVCDemoApp\\Models\\FoodListModel.cs",
+              "RelativeDocumentMoniker": "MVCDemoApp\\Models\\FoodListModel.cs",
+              "ToolTip": "D:\\GitHub\\TimCorrey_ASPNETCORE\\MVCDemo\\MVCDemoApp\\Models\\FoodListModel.cs",
+              "RelativeToolTip": "MVCDemoApp\\Models\\FoodListModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T15:20:28.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Display.cshtml",
               "DocumentMoniker": "D:\\GitHub\\TimCorrey_ASPNETCORE\\MVCDemo\\MVCDemoApp\\Views\\Orders\\Display.cshtml",
               "RelativeDocumentMoniker": "MVCDemoApp\\Views\\Orders\\Display.cshtml",
               "ToolTip": "D:\\GitHub\\TimCorrey_ASPNETCORE\\MVCDemo\\MVCDemoApp\\Views\\Orders\\Display.cshtml",
               "RelativeToolTip": "MVCDemoApp\\Views\\Orders\\Display.cshtml",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-09T16:38:05.402Z",
               "EditorCaption": ""
@@ -57,7 +74,7 @@
               "RelativeDocumentMoniker": "MVCDemoApp\\Controllers\\OrdersController.cs",
               "ToolTip": "D:\\GitHub\\TimCorrey_ASPNETCORE\\MVCDemo\\MVCDemoApp\\Controllers\\OrdersController.cs",
               "RelativeToolTip": "MVCDemoApp\\Controllers\\OrdersController.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAiwFEAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwDoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-09T16:11:09.534Z",
               "EditorCaption": ""
