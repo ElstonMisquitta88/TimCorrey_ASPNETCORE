@@ -38,7 +38,28 @@
                     <td><strong>Quantity</strong></td>
                     <td>@Model.Order.Quantity</td>
                 </tr>
+
+                <tr>
+                    <td>
+                        <a asp-action="Delete" asp-route-id="@Model.Order.Id" class="btn btn-danger">Delete Order </a>
+                    </td>
+                </tr>
             </tbody>
         </table>
+
+
     }
+    <form asp-action="Update">
+        <input asp-for="Order.Id" value="@Model.Order.Id" class="form-control" type="hidden" />
+        <input asp-for="Order.OrderName" value="@Model.Order.OrderName" class="form-control" />
+        <input type="submit" value="Update" class="btn btn-primary" />
+    </form>
+
+
+    <form asp-action="Delete">
+        <input asp-for="Order.Id" value="@Model.Order.Id" class="form-control" type="hidden" />
+        <input asp-for="Order.OrderName" value="@Model.Order.OrderName" class="form-control" />
+        <input type="submit" value="Delete" class="btn btn-danger" />
+    </form>
+
 }

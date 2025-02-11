@@ -69,5 +69,16 @@ namespace DataLibrary.Data
 
             return recs.FirstOrDefault();
         }
+
+
+        public async Task<List<OrderModel>> GetAllOrders()
+        {
+            var recs = await _dataAccess.LoadData<OrderModel, dynamic>("dbo.sp_AllOrders",
+                new
+                { },
+                _connectionString.SqlConnectionName);
+
+            return recs;
+        }
     }
 }

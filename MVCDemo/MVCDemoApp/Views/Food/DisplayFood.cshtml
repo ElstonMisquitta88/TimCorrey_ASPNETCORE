@@ -20,9 +20,9 @@
                 foreach (var food in Model.Foodlist)
                 {
                     <tr>
-                        <td>@food.Title</td>
-                        <td>@food.Description</td>
-                        <td>@string.Format("{0:C}", @food.Price)</td>
+                        <td>@Html.DisplayFor(modelItem => food.Title))</td>
+                        <td>@Html.DisplayFor(modelItem => food.Description))</td>
+                        <td>@Html.DisplayFor(modelItem => food.Price))</td>
                     </tr>
                 }
             }

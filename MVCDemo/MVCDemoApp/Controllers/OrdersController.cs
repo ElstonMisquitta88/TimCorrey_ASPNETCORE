@@ -51,7 +51,7 @@ namespace MVCDemoApp.Controllers
             Order.Total = Order.Quantity * food.Where(x => x.Id == Order.FoodId).First().Price;
             int id = await _orderData.CreateOrder(Order);
 
-            return RedirectToAction("Display",new {id}); // TODO
+            return RedirectToAction("Display",new {id}); 
         }
 
 
@@ -68,6 +68,26 @@ namespace MVCDemoApp.Controllers
                 displayorder.ItemPurchased = food.Where(x => x.Id == Order.FoodId).FirstOrDefault()?.Title;
             }
             return View(displayorder);
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Update(OrderModel Order)
+        {
+            await _orderData.UpdateOrderName(Order.Id, Order.OrderName);
+            return RedirectToAction("Display", new { Order.Id });
+        }
+
+        public async Task<IActionResult> Delete(int Id)
+        {
+            await _orderData.DeleteOrder(Id);
+            return RedirectToAction("Create");
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Delete(OrderModel Order)
+        {
+            await _orderData.DeleteOrder(Order.Id);
+            return RedirectToAction("Create");
         }
     }
 }
