@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "UdJg/I1/SLcRVwQBlecQKqR2jDROnmHmdXhiVFN76f8=",
+  "Source": "ApiDemoApp",
+  "BasePath": "_content/ApiDemoApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
