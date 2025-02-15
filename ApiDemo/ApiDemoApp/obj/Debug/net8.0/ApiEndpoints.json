@@ -2,7 +2,7 @@
   {
     "ContainingType": "ApiDemoApp.Controllers.WeatherForecastController",
     "Method": "Get",
-    "RelativePath": "WeatherForecast/testelston",
+    "RelativePath": "api/WeatherForecast",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
