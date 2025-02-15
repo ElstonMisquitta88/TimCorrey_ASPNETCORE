@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\TimCorrey_ASPNETCORE\\BlazorServerDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C851ED38-6B18-46A5-922D-5B1511CB95FD}|BlazorServerDemoApp\\BlazorServerDemoApp.csproj|d:\\github\\timcorrey_aspnetcore\\blazorserverdemo\\blazorserverdemoapp\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C851ED38-6B18-46A5-922D-5B1511CB95FD}|BlazorServerDemoApp\\BlazorServerDemoApp.csproj|solutionrelative:blazorserverdemoapp\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "D:\\GitHub\\TimCorrey_ASPNETCORE\\BlazorServerDemo\\BlazorServerDemoApp\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "BlazorServerDemoApp\\Components\\Pages\\Counter.razor",
+              "ToolTip": "D:\\GitHub\\TimCorrey_ASPNETCORE\\BlazorServerDemo\\BlazorServerDemoApp\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "BlazorServerDemoApp\\Components\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-15T17:29:16.397Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

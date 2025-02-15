@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\GitHub\\TimCorrey_ASPNETCORE\\BlazorServerDemo\\BlazorServerDemoApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorServerDemoApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlazorServerDemoApp.5n6uu1iqvk.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\GitHub\\TimCorrey_ASPNETCORE\\BlazorServerDemo\\BlazorServerDemoApp\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\GitHub\\TimCorrey_ASPNETCORE\\BlazorServerDemo\\BlazorServerDemoApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\GitHub\\TimCorrey_ASPNETCORE\\BlazorServerDemo\\BlazorServerDemoApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\GitHub\\TimCorrey_ASPNETCORE\\BlazorServerDemo\\BlazorServerDemoApp\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorServerDemoApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorServerDemoApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazorServerDemoApp.props",
+      "PackagePath": "build\\BlazorServerDemoApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorServerDemoApp.props",
+      "PackagePath": "buildMultiTargeting\\BlazorServerDemoApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazorServerDemoApp.props",
+      "PackagePath": "buildTransitive\\BlazorServerDemoApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

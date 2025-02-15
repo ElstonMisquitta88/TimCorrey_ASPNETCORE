@@ -1,0 +1,640 @@
+{
+  "Version": 1,
+  "Hash": "yz9oIvFA7V/tHw0SelRaiCatsTJxRgqEQCx+DJZ8N9c=",
+  "Source": "BlazorServerDemoApp",
+  "BasePath": "_content/BlazorServerDemoApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BlazorServerDemoApp\\wwwroot",
+      "Source": "BlazorServerDemoApp",
+      "ContentRoot": "D:\\GitHub\\TimCorrey_ASPNETCORE\\BlazorServerDemo\\BlazorServerDemoApp\\wwwroot\\",
+      "BasePath": "_content/BlazorServerDemoApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\GitHub\\TimCorrey_ASPNETCORE\\BlazorServerDemo\\BlazorServerDemoApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorServerDemoApp.styles.css",
+      "SourceId": "BlazorServerDemoApp",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\GitHub\\TimCorrey_ASPNETCORE\\BlazorServerDemo\\BlazorServerDemoApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/BlazorServerDemoApp",
+      "RelativePath": "BlazorServerDemoApp#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "5n6uu1iqvk",
+      "Integrity": "32A+apVUMYKBe17GWPjWW76TIh4ZvEO/IXeklh60rhU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\GitHub\\TimCorrey_ASPNETCORE\\BlazorServerDemo\\BlazorServerDemoApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorServerDemoApp.styles.css"
+    },
+    {
+      "Identity": "D:\\GitHub\\TimCorrey_ASPNETCORE\\BlazorServerDemo\\BlazorServerDemoApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorServerDemoApp.bundle.scp.css",
+      "SourceId": "BlazorServerDemoApp",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\GitHub\\TimCorrey_ASPNETCORE\\BlazorServerDemo\\BlazorServerDemoApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/BlazorServerDemoApp",
+      "RelativePath": "BlazorServerDemoApp#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "5n6uu1iqvk",
+      "Integrity": "32A+apVUMYKBe17GWPjWW76TIh4ZvEO/IXeklh60rhU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\GitHub\\TimCorrey_ASPNETCORE\\BlazorServerDemo\\BlazorServerDemoApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorServerDemoApp.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\GitHub\\TimCorrey_ASPNETCORE\\BlazorServerDemo\\BlazorServerDemoApp\\wwwroot\\app.css",
+      "SourceId": "BlazorServerDemoApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitHub\\TimCorrey_ASPNETCORE\\BlazorServerDemo\\BlazorServerDemoApp\\wwwroot\\",
+      "BasePath": "_content/BlazorServerDemoApp",
+      "RelativePath": "app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "da95v2qkru",
+      "Integrity": "u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    },
+    {
+      "Identity": "D:\\GitHub\\TimCorrey_ASPNETCORE\\BlazorServerDemo\\BlazorServerDemoApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "SourceId": "BlazorServerDemoApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitHub\\TimCorrey_ASPNETCORE\\BlazorServerDemo\\BlazorServerDemoApp\\wwwroot\\",
+      "BasePath": "_content/BlazorServerDemoApp",
+      "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bpk8xqwxhs",
+      "Integrity": "z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "D:\\GitHub\\TimCorrey_ASPNETCORE\\BlazorServerDemo\\BlazorServerDemoApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "SourceId": "BlazorServerDemoApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitHub\\TimCorrey_ASPNETCORE\\BlazorServerDemo\\BlazorServerDemoApp\\wwwroot\\",
+      "BasePath": "_content/BlazorServerDemoApp",
+      "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "D:\\GitHub\\TimCorrey_ASPNETCORE\\BlazorServerDemo\\BlazorServerDemoApp\\wwwroot\\favicon.png",
+      "SourceId": "BlazorServerDemoApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitHub\\TimCorrey_ASPNETCORE\\BlazorServerDemo\\BlazorServerDemoApp\\wwwroot\\",
+      "BasePath": "_content/BlazorServerDemoApp",
+      "RelativePath": "favicon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ifv42okdf2",
+      "Integrity": "4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "app.css",
+      "AssetFile": "D:\\GitHub\\TimCorrey_ASPNETCORE\\BlazorServerDemo\\BlazorServerDemoApp\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2591"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 17:28:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE="
+        }
+      ]
+    },
+    {
+      "Route": "app.da95v2qkru.css",
+      "AssetFile": "D:\\GitHub\\TimCorrey_ASPNETCORE\\BlazorServerDemo\\BlazorServerDemoApp\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2591"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 17:28:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "da95v2qkru"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorServerDemoApp.5n6uu1iqvk.bundle.scp.css",
+      "AssetFile": "D:\\GitHub\\TimCorrey_ASPNETCORE\\BlazorServerDemo\\BlazorServerDemoApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorServerDemoApp.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5921"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"32A+apVUMYKBe17GWPjWW76TIh4ZvEO/IXeklh60rhU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 17:29:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5n6uu1iqvk"
+        },
+        {
+          "Name": "label",
+          "Value": "BlazorServerDemoApp.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-32A+apVUMYKBe17GWPjWW76TIh4ZvEO/IXeklh60rhU="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorServerDemoApp.5n6uu1iqvk.styles.css",
+      "AssetFile": "D:\\GitHub\\TimCorrey_ASPNETCORE\\BlazorServerDemo\\BlazorServerDemoApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorServerDemoApp.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5921"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"32A+apVUMYKBe17GWPjWW76TIh4ZvEO/IXeklh60rhU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 17:29:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5n6uu1iqvk"
+        },
+        {
+          "Name": "label",
+          "Value": "BlazorServerDemoApp.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-32A+apVUMYKBe17GWPjWW76TIh4ZvEO/IXeklh60rhU="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorServerDemoApp.bundle.scp.css",
+      "AssetFile": "D:\\GitHub\\TimCorrey_ASPNETCORE\\BlazorServerDemo\\BlazorServerDemoApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorServerDemoApp.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5921"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"32A+apVUMYKBe17GWPjWW76TIh4ZvEO/IXeklh60rhU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 17:29:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-32A+apVUMYKBe17GWPjWW76TIh4ZvEO/IXeklh60rhU="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorServerDemoApp.styles.css",
+      "AssetFile": "D:\\GitHub\\TimCorrey_ASPNETCORE\\BlazorServerDemo\\BlazorServerDemoApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorServerDemoApp.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5921"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"32A+apVUMYKBe17GWPjWW76TIh4ZvEO/IXeklh60rhU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 17:29:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-32A+apVUMYKBe17GWPjWW76TIh4ZvEO/IXeklh60rhU="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.bpk8xqwxhs.css",
+      "AssetFile": "D:\\GitHub\\TimCorrey_ASPNETCORE\\BlazorServerDemo\\BlazorServerDemoApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 17:28:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bpk8xqwxhs"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css",
+      "AssetFile": "D:\\GitHub\\TimCorrey_ASPNETCORE\\BlazorServerDemo\\BlazorServerDemoApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 17:28:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "D:\\GitHub\\TimCorrey_ASPNETCORE\\BlazorServerDemo\\BlazorServerDemoApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 17:28:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.map",
+      "AssetFile": "D:\\GitHub\\TimCorrey_ASPNETCORE\\BlazorServerDemo\\BlazorServerDemoApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 17:28:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ifv42okdf2.png",
+      "AssetFile": "D:\\GitHub\\TimCorrey_ASPNETCORE\\BlazorServerDemo\\BlazorServerDemoApp\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 17:28:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ifv42okdf2"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.png",
+      "AssetFile": "D:\\GitHub\\TimCorrey_ASPNETCORE\\BlazorServerDemo\\BlazorServerDemoApp\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 17:28:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    }
+  ]
+}
